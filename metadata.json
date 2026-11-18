@@ -1,0 +1,6 @@
+{
+  "name": "Fleet Battle — Batalla Naval",
+  "description": "Juego de estrategia naval táctico por turnos con IA progresiva, habilidades especiales, multijugador P2P en tiempo real y modo torneo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
