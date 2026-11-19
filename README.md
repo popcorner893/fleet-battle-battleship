@@ -8,7 +8,7 @@
 
 ## ✨ Características Principales
 
-* **Centro de Operaciones CRT Interactivo:** Menú principal diseñado sobre una consola retro con botones calibrados, selector de dificultad con palancas iluminadas, radar sonar interactivo y control de volumen/efectos.
+* **Centro de Operaciones CRT Interactivo:** Menú principal diseñado sobre  una consola retro con botones calibrados, selector de dificultad con palancas iluminadas, radar sonar interactivo y control de volumen/efectos.
 * **Inteligencia Artificial en 3 Niveles ([`src/ai/brain.ts`](./src/ai/brain.ts)):**
   * **Fácil (Recluta):** Ataques pseudoaleatorios sin memoria táctica post-impacto.
   * **Media (Comandante):** Algoritmo *Hunt-and-Target* con rastreo y persecución ortogonal tras cada impacto.
